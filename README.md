@@ -18,7 +18,7 @@ Avec `Selenium` je récupère la page de recherche google, pour pouvoir récupé
 ## Machine learning 
 
 Je lis le dataset grâce pandas, je rajoute une colonne appelé label_num où je transforme mon label de format texte en chiffre correspondant de 0 à 3 respectivement, puis je mélange l'ensemble de jeu de donnée après je vectorise les le texte grâce à Tfidfvectorizer de Scikit-learn consiste à convertir une collection de documents bruts en une matrice de fonctionnalités TF-IDF. 
-J’ai tester sur plusieurs algorithmes de classification que j’ai pu trouver  K Nearest Neighbor, Gaussian Naive Bayes, AdaBoost, Decsision Tree, Random Forest, Stochastic Gradient Descent et Dummy
+J’ai testé sur plusieurs algorithmes de classification que j’ai pu trouver  K Nearest Neighbor, Gaussian Naive Bayes, AdaBoost, Decsision Tree, Random Forest, Stochastic Gradient Descent et Dummy
 
 
 ### Scores de différents algorithmes utilisé 

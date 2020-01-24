@@ -12,3 +12,4 @@ Avec `Selenium` je récupère la page de recherche google, pour pouvoir récupé
 
 À partir des données brute stocker en format texte, je récupère les ligne en lui attribuant un label de son sujet dans fichier CSV, j’ai effectué un traitement sur le texte au même temps, j'ai utilisé le package `nltk` et les `Regex` pour récupérer les tokens nltk à partir de text et créer un texte nltk, et la suppression de brute `re.sub(r'[.|,|\|!|"|#|$|%|&|\|*|+|-|/:|;||?|@|^']',' ', raw) `, et normalise les mots en les transformant en minuscules, puis supprimer les mots qui sont tellement commun qu'il est inutile de l'indexer ou de l'utiliser dans une recherche appelé les mots vides. Puis je construite un dataset avec tout le corpus dont il existe tout les domaine choisi.
 
+![Dataset](https://github.com/nourshmm/Reconnaissance-contexte-ML/blob/master/corpus/dataset.png)

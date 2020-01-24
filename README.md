@@ -17,3 +17,14 @@ Avec `Selenium` je récupère la page de recherche google, pour pouvoir récupé
 
 ## Machine learning 
 
+
+### Scores de différents algorithmes utilisé 
+![Dataset](https://github.com/nourshmm/Reconnaissance-contexte-ML/blob/master/corpus/scores-algos.png)
+
+### Courbe ROC 
+![Dataset](https://github.com/nourshmm/Reconnaissance-contexte-ML/blob/master/corpus/courbe-accuracy.png)
+
+
+
+
+
